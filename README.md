@@ -5,7 +5,7 @@
 - 🤔 Tentando ser um desenvolvedor
 - 📫 Meu contato email: gustavo.pds0303@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutoPsilva&show_icons=true&theme=synthwave) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutoPsilva&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

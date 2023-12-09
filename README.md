@@ -33,6 +33,7 @@ Opa! Me chamo Gustavo Pereira da Silva e tenho 18 anos. Tenho formação técnic
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 <!--
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:865DFF,100:5CB8E4&height=120&section=footer)

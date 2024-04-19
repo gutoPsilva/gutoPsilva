@@ -1,6 +1,6 @@
 # Quem sou eu? 🤨
 
-Opa! Me chamo Gustavo Pereira da Silva e tenho 19 anos. Tenho formação técnica em Desenvolvimento de Sistemas e estou cursando o 2º semestre de ADS na Fatec-SP. Atualmente estudando Angular e NestJS por conta própria, estou sempre aberto a novas oportunidades de aprendizado 😉.
+Opa! Me chamo Gustavo Pereira da Silva e tenho 19 anos. Tenho formação técnica em Desenvolvimento de Sistemas e estou cursando o 3º semestre de ADS na Fatec-SP.Estou sempre aberto a novas oportunidades de aprendizado 😉.
 
 <!--
 

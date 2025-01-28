@@ -1,6 +1,6 @@
 # Opa! Eu sou Gustavo Pereira da Silva 👋
 
-Sou um desenvolvedor Full Stack Jr na Nuvem3 Tecnologia! Atualmente, estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na Fatec-SP. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades. Estou sempre aberto a novas oportunidades de aprendizado. 😉
+Sou um desenvolvedor Full Stack Jr na Nuvem3 Tecnologia! Atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec-SP. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades. Estou sempre aberto a novas oportunidades de aprendizado. 😉
 
 <!--
 ## Contatos

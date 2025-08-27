@@ -1,6 +1,6 @@
-# Opa! Eu sou Gustavo Pereira da Silva 👋
+# Gustavo Pereira da Silva 👋
 
-Sou um desenvolvedor Full Stack Jr na Nuvem3 Tecnologia! Atualmente, estou cursando o 6º semestre de Análise e Desenvolvimento de Sistemas na Fatec-SP. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades. Estou sempre aberto a novas oportunidades de aprendizado. 😉
+Desenvolvedor Full Stack na Nuvem3 Tecnologia. Atualmente cursando 6º semestre de Análise e Desenvolvimento de Sistemas na Fatec-SP. Sempre aberto a novas oportunidades.
 
 <!--
 ## Contatos
@@ -14,7 +14,6 @@ Sou um desenvolvedor Full Stack Jr na Nuvem3 Tecnologia! Atualmente, estou cursa
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Gin Badge](https://img.shields.io/badge/Gin-008ECF?logo=gin&logoColor=fff&style=for-the-badge)
 
 ## 🔧 Tecnologias e Ferramentas
 
@@ -27,7 +26,7 @@ Sou um desenvolvedor Full Stack Jr na Nuvem3 Tecnologia! Atualmente, estou cursa
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-### Frameworks e Libs
+### Frameworks/Libs
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -37,6 +36,9 @@ Sou um desenvolvedor Full Stack Jr na Nuvem3 Tecnologia! Atualmente, estou cursa
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Bancos de Dados
@@ -44,7 +46,6 @@ Sou um desenvolvedor Full Stack Jr na Nuvem3 Tecnologia! Atualmente, estou cursa
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ORM's
 
@@ -53,7 +54,7 @@ Sou um desenvolvedor Full Stack Jr na Nuvem3 Tecnologia! Atualmente, estou cursa
 
 ### Ferramentas em Geral
 
-![VSCode](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)

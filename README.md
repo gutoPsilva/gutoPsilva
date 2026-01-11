@@ -1,23 +1,15 @@
 # Gustavo Pereira da Silva 👋
 
-Desenvolvedor Full Stack na Nuvem3 Tecnologia. Atualmente cursando 6º semestre de Análise e Desenvolvimento de Sistemas na Fatec-SP. Sempre aberto a novas oportunidades.
+Full Stack Developer at Nuvem3 Tecnologia. Currently in the 7th semester of Systems Analysis and Development at Fatec-SP. Always open to new opportunities.
 
-<!--
-## Contatos
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-pereira-da-silva-b5b684247/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.pds0303@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/318413374335483907)
--->
-
-## 🚀 Estudando/Interesse
+## 🚀 Studying / Interests
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🔧 Tecnologias e Ferramentas
+## 🔧 Technologies & Tools
 
-### Linguagens
+### Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,7 +18,7 @@ Desenvolvedor Full Stack na Nuvem3 Tecnologia. Atualmente cursando 6º semestre 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-### Frameworks/Libs
+### Frameworks / Libraries
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -41,18 +33,18 @@ Desenvolvedor Full Stack na Nuvem3 Tecnologia. Atualmente cursando 6º semestre 
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Bancos de Dados
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### ORM's
+### ORMs
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/static/v1?style=for-the-badge&message=TypeORM&color=FE0803&logo=TypeORM&logoColor=FFFFFF&label=)
 
-### Ferramentas em Geral
+### General Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -61,18 +53,5 @@ Desenvolvedor Full Stack na Nuvem3 Tecnologia. Atualmente cursando 6º semestre 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-<!--
-## 📚 Projetos
-
-- **[Projeto 1](#)**: Descrição breve do projeto e seu objetivo.
-- **[Projeto 2](#)**: Descrição breve do projeto e seu objetivo.
-- **[Projeto 3](#)**: Descrição breve do projeto e seu objetivo.
-
-## 🏆 Conquistas e Certificações
-
-- Certificação XYZ - [Instituição](#)
-- Certificação ABC - [Instituição](#)
--->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:865DFF,100:5CB8E4&height=120&section=footer)
